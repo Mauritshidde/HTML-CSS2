@@ -12,10 +12,14 @@ body {
   text-align: center;
   color: red;
   margin-top: 0px;
+  font-size: 50px;
 }
 .container p {
   text-align: center;
   color: #ffffff;
+  padding-left: 200px;
+  padding-right: 200px;
+  font-size: 20px;
 }
 .img {
   width: 100%;
