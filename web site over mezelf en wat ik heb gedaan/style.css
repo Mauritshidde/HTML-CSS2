@@ -3,56 +3,19 @@ body {
     margin: 0;
     padding: 0;
 }
-.Codderclasprojects {
-  width: 400px;
-  height: 400px;
-  border: 10px solid #3993DD; 
-  margin-top: 50px;
-  margin-bottom: 20px;
-}
-.Codderclasprojects:hover {
-  display: block;
-}
-
-.projecttext {
-  display: block;
-  color: blue;
-}
-
-/*.Codderclasprojects:hover {
-  display: none;
-} */
-
-.project {
-  display: flex;
-  justify-content: space-around;
-}
-.projects {
-  width: 400px;
-  height: 400px;
-  border: 5px solid #3993DD;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-top: 50px;
-  margin-bottom: 20px;
-}
 .container {
 /*  margin-top: 500px; */
   width: 100%;
-  background-color: white;
+  background-color: #000000;
 }
 .container h1 {
   text-align: center;
-  color: black;
+  color: red;
   margin-top: 0px;
-  font-size: 50px;
 }
 .container p {
   text-align: center;
-  color: black;
-  padding-left: 200px;
-  padding-right: 200px;
-  font-size: 20px;
+  color: #ffffff;
 }
 .img {
   width: 100%;
@@ -61,8 +24,4 @@ body {
   background-size: 100%;
   background-position:  center center;
   background-repeat: no-repeat;
-}
-.imgvoorbox{
-  width: 400px;
-  height: 400px;
 }
